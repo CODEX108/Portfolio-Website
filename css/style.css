@@ -3,6 +3,8 @@
 /*-----------Website theme----------- */
 :root {
   --hue-1: 257;
+  
+
   --hue-2: 0;
 
   --main-color-1: hsl(var(--hue-1), 100%, 60%);
