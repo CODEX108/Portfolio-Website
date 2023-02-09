@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: codex108.github.io
+Token: 06be44cff090afad74a835135387e27902e02c1c3335e38f0cd58501ee9d27ad
